@@ -23,7 +23,7 @@ Explore the dashboard
 ## 📷 Dashboard Preview
 
 ### Executive View
-![Dashboard](screenshots/Workforce_Analysis.png)
+![Dashboard](screenshots/Workforce Analysis.png)
 
 ### Attrition Analysis
-![Dashboard](screenshots/Employee_Attrition.png)
+![Dashboard](screenshots/Employee Attrition.png)
