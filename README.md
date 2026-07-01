@@ -20,10 +20,4 @@ How to use
 Download the PBIX file
 Open it in Power BI Desktop
 Explore the dashboard
-## 📷 Dashboard Preview
 
-### Executive View
-![Dashboard](screenshots/Workforce Analysis.png)
-
-### Attrition Analysis
-![Dashboard](screenshots/Employee Attrition.png)
